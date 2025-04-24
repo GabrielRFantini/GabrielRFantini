@@ -1,4 +1,4 @@
-# 👨‍🌾 Gabriel Rodrigo Fantini
+#  Gabriel Rodrigo Fantini
 
 Olá! 👋 Me chamo Gabriel Fantini, sou engenheiro agrônomo formado e apaixonado por tecnologia, futebol, o mundo agrícola e o universo dos investimentos 🌾⚽💻📈  
 Palmeirense de coração 💚, encontro no Python uma forma de unir minhas paixões e buscar soluções inteligentes para desafios do campo, do mercado e da vida.
