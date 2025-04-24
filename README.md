@@ -1,17 +1,17 @@
 # 👋 Olá, me chamo Gabriel Fantini!
 
-🎓 Engenheiro Agrônomo apaixonado por tecnologia, agro, futebol, investimentos e o universo da Nintendo — em especial *The Legend of Zelda* 🗺️🌾⚽💻📈
+🎓 Engenheiro Agrônomo por formação,  tecnologia por curiosidade, futebol por paixão, trader por loucura e Nintendista de coração — em especial *The Legend of Zelda* 🗺️🌾⚽💻📈
 
-💚 Palmeirense de coração, estou começando minha jornada no mundo da programação com Python, buscando unir o campo, o código e o capital para criar soluções inteligentes e eficientes.
+Estou começando minha jornada no mundo da programação com Python, foi a primeira linguagem que eu tive contato, desde então fiz varios bootscamps e cursos voltados para Python.
 
 ---
 
 ## 🚀 Sobre mim
 
 - 🐍 Iniciante em Python
-- 🌱 Curioso por tudo que envolve tecnologia no agro e no mercado financeiro
+- 🌱 Curioso por tudo que envolve tecnologia, agro e mercado financeiro
 - 📊 Interessado em análise de dados, automações e ferramentas para traders e investidores
-- ⚽ Fanático por futebol
+- ⚽ Adoro jogar futebol
 - 🕹️ Entusiasta do mundo Nintendo, especialmente *Zelda*
 
 ---
