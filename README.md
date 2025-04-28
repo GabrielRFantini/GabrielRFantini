@@ -11,7 +11,7 @@ Estou começando minha jornada no mundo da programação com Python, foi a prime
 - 🐍 Iniciante em Python
 - 🌱 Curioso por tudo que envolve tecnologia, agro e mercado financeiro
 - 📊 Interessado em análise de dados, automações e ferramentas para traders e investidores
-- ⚽ Adoro jogar futebol
+- ⚽ futebol
 - 🕹️ Entusiasta do mundo Nintendo, especialmente *Zelda*
 
 ---
