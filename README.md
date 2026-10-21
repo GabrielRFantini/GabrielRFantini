@@ -8,7 +8,7 @@ Estou começando minha jornada no mundo da programação com Python, foi a prime
 
 ## 🚀 Sobre mim
 
-- 🐍 Iniciante em Python
+- 🐍 Iniciante em Python e Java
 - 🌱 Curioso por tudo que envolve tecnologia, agro e mercado financeiro
 - 📊 Interessado em análise de dados, automações e ferramentas para traders e investidores
 - ⚽ futebol
@@ -21,6 +21,8 @@ Estou começando minha jornada no mundo da programação com Python, foi a prime
 Atualmente aprendendo e praticando com:
 
 - Python (iniciante)
+- Java (iniciante)
+- C++(iniciante)
 - APIs e automações (em breve)
 
 ---
