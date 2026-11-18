@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Gabriel Fantini!
 
-🎓 Engenheiro Agrônomo por formação,  tecnologia por curiosidade, futebol por paixão, trader por loucura e Nintendista de coração — em especial *The Legend of Zelda* 🗺️🌾⚽💻📈
+🎓 Engenheiro Agrônomo por formação, migrando para área de Tecnologia 💻
 🎓 Analise e Desenvolvimento de Sistemas - Fatec/Araraquara 3/6
 Estou começando minha jornada no mundo da programação com Python, foi a primeira linguagem que eu tive contato, desde então fiz varios bootscamps e cursos voltados para Python.
 
